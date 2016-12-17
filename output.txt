@@ -1,0 +1,23 @@
+Enter the number of hidden neurons
+2
+Enter the number of neurons for each hidden neuron
+1
+Generate an input vector
+-1	1	
+Enter the weight limit for TPM-1 and TPM-2
+2
+
+TPM-1
+-1	1	
+TPM-2
+-1	1	
+2 neural networks are synchronized
+The secret key is
+-1	1	
+Enter a plain message to encrypt:
+hello
+
+CIPHER TEXT
+�����
+ORIGINAL TEXT
+hello
